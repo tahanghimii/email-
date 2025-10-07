@@ -12,6 +12,7 @@
   "dependencies": {
     "framer-motion": "^12.23.22",
     "lucide-react": "^0.544.0",
+    "msgreader": "^1.0.1",
     "pdf-lib": "^1.17.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
